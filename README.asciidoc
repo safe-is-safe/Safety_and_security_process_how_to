@@ -11,7 +11,8 @@ The suggested sturcture targets to provides
 == Enviroment
 All documents are created via ASCIIdoc format that provides easy adaptation of the templates to a corporate style.
 
-== Plans
+==Plans
+
 1. Complete process related parts and templates,
 3. Add instructions how to handle documents,
 4. Add some CI perl based,
